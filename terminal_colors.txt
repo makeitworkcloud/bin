@@ -1,0 +1,8 @@
+Name		Color		Intense Color	Faint Color
+Foreground	#AAAAAA		#FFFFFF		#555555
+Color 2		#AA0000		#FF5555
+Color 3		#00AA00		#55FF55
+Color 4		#AA5500		#FFFF55
+Color 5		#0000AA		#5555FF
+Color 6		#AA00AA		#FF55FF
+Color 7		#00AAAA		#55FFFF

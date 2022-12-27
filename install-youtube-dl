@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p /home/{$USER}/bin
+curl -L https://github.com/blackjack4494/yt-dlc/releases/latest/download/youtube-dlc -o /home/${USER}/bin/youtube-dl
+chmod 755 /home/${USER}/bin/youtube-dl
